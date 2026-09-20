@@ -1,6 +1,6 @@
 ## Mohamed Mamdouh
 
-Video editor, graphic designer, and AI & Computer Science student at Fayoum National University.
+AI & Computer Science student at Fayoum University(AI Major). Video editor, graphic designer, and 
 Marketing specialist & digital creator at Glow Media. Six years editing and designing, four of them freelance.
 
 **Portfolio → [mohamedmamdouh71.github.io](https://mohamedmamdouh71.github.io)**
